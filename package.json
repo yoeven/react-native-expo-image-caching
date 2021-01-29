@@ -1,6 +1,7 @@
 {
   "name": "react-native-expo-image-caching",
   "main": "index.js",
+  "typings": "index.d.ts",
   "version": "1.0.1",
   "license": "MIT",
   "scripts": {
